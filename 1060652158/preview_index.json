@@ -1,6 +1,7 @@
 {
   "qq_number": "2302521501",
   "group_number": "1060652158",
+  "updated_at": "2026-11-22T18:45:37+00:00",
   "skins": [
     {
       "name": "极简系",
@@ -8,7 +9,13 @@
       "thumb": "极简灰.bds_py_26_light_thumb.png",
       "full": "极简灰.bds_py_26_light_thumb.png",
       "file_id": "51727694"
+    },
+    {
+      "name": "极简系",
+      "file": "极简粉.bds",
+      "thumb": "极简粉.bds_py_26_light_thumb.png",
+      "full": "极简粉.bds_py_26_light_thumb.png",
+      "file_id": "51638992"
     }
-  ],
-  "updated_at": "2026-11-22T18:45:11+00:00"
+  ]
 }
