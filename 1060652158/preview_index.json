@@ -1,7 +1,7 @@
 {
   "qq_number": "2302521501",
   "group_number": "1060652158",
-  "updated_at": "2026-11-22T18:48:05+00:00",
+  "updated_at": "2026-11-22T18:48:36+00:00",
   "skins": [
     {
       "name": "极简系",
@@ -37,6 +37,13 @@
       "thumb": "致爱美学02.bds_py_26_light_thumb.png",
       "full": "致爱美学02.bds_py_26_light_thumb.png",
       "file_id": "51328123"
+    },
+    {
+      "name": "人在做，猫在看",
+      "file": "人在做_猫在看.bds",
+      "thumb": "人在做_猫在看.bds_py_26_light_thumb.png",
+      "full": "人在做_猫在看.bds_py_26_light_thumb.png",
+      "file_id": "51210464"
     }
   ]
 }
